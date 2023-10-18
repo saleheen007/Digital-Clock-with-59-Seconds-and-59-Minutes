@@ -1,4 +1,4 @@
-# Digital-Clock-with-59-seconds-and-59-minutes
+# Digital-Clock-with-59-Seconds-and-59-Minutes
 
 This particular project was given as a team to build a digital clock using logic gates and flipflops in logisim software.
 My first task was to build a counter that counts from 0 to 9 but skips number 4, which I made using T flip-flops. I also helped to build the other counters as well.
